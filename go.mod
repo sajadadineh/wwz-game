@@ -1,3 +1,3 @@
-module github.com/sajadadineh/main.go
+module github.com/sajadadineh
 
 go 1.22.1
