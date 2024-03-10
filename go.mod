@@ -1,3 +1,3 @@
 module github.com/sajadadineh
 
-go 1.22.1
+go 1.19
